@@ -1,0 +1,67 @@
+[
+  {
+    "jobId": "job_101",
+    "postedBy": "user_003",
+    "title": "Flutter Developer",
+    "description": "We are looking for a skilled Flutter Developer to build cross-platform mobile applications. You will be working with our team of developers to create beautiful and performant apps.",
+    "salary": "₹8,00,000 - ₹12,00,000 per annum",
+    "location": "Bangalore, Karnataka",
+    "eligibility": "B.Tech/B.E. in Computer Science with 2+ years of Flutter experience",
+    "lastDate": "2023-12-15",
+    "applicationsReceived": [],
+    "status": "approved",
+    "companyLogo": "assets/docs/user_003/logo.png"
+  },
+  {
+    "jobId": "job_102",
+    "postedBy": "user_003",
+    "title": "Data Scientist",
+    "description": "Looking for a Data Scientist to analyze complex data and build predictive models. Experience with Python and ML frameworks required.",
+    "salary": "₹10,00,000 - ₹15,00,000 per annum",
+    "location": "Hyderabad, Telangana",
+    "eligibility": "M.Tech/M.Sc in Data Science or related field with 1+ years experience",
+    "lastDate": "2023-12-20",
+    "applicationsReceived": [],
+    "status": "approved",
+    "companyLogo": "assets/docs/user_003/logo.png"
+  },
+  {
+    "jobId": "job_103",
+    "postedBy": "user_004",
+    "title": "UI/UX Designer",
+    "description": "Join our creative team as a UI/UX Designer. You'll be responsible for creating beautiful and intuitive interfaces for our mobile and web applications.",
+    "salary": "₹6,00,000 - ₹9,00,000 per annum",
+    "location": "Mumbai, Maharashtra",
+    "eligibility": "Degree in Design with portfolio of previous work",
+    "lastDate": "2023-12-25",
+    "applicationsReceived": [],
+    "status": "approved",
+    "companyLogo": "assets/docs/user_004/logo.png"
+  },
+  {
+    "jobId": "job_104",
+    "postedBy": "user_004",
+    "title": "Backend Developer (Node.js)",
+    "description": "We need a Node.js developer to build and maintain our server infrastructure. Experience with MongoDB and AWS preferred.",
+    "salary": "₹9,00,000 - ₹14,00,000 per annum",
+    "location": "Remote",
+    "eligibility": "B.Tech/B.E. with 2+ years of Node.js experience",
+    "lastDate": "2023-12-30",
+    "applicationsReceived": [],
+    "status": "approved",
+    "companyLogo": "assets/docs/user_004/logo.png"
+  },
+  {
+    "jobId": "job_105",
+    "postedBy": "user_003",
+    "title": "DevOps Engineer",
+    "description": "Looking for DevOps Engineer to manage our cloud infrastructure and CI/CD pipelines. Kubernetes and Docker experience required.",
+    "salary": "₹12,00,000 - ₹18,00,000 per annum",
+    "location": "Gurugram, Haryana",
+    "eligibility": "3+ years experience in DevOps role",
+    "lastDate": "2024-01-05",
+    "applicationsReceived": [],
+    "status": "pending",
+    "companyLogo": "assets/docs/user_003/logo.png"
+  }
+]

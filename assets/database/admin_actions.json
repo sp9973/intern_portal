@@ -1,0 +1,22 @@
+[
+    {
+      "actionId": "action_501",
+      "adminId": "user_005",
+      "targetUserId": "user_003",
+      "actionType": "approve_posting",
+      "targetType": "job",
+      "targetId": "job_101",
+      "actionDate": "2023-11-01",
+      "remarks": "Approved Flutter Developer job posting"
+    },
+    {
+      "actionId": "action_502",
+      "adminId": "user_005",
+      "targetUserId": "user_003",
+      "actionType": "approve_posting",
+      "targetType": "internship",
+      "targetId": "intern_201",
+      "actionDate": "2023-11-02",
+      "remarks": "Approved Flutter internship"
+    }
+]

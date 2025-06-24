@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "64343309820",
+    "project_id": "internlink-dad8b",
+    "storage_bucket": "internlink-dad8b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64343309820:android:f4f2ee84f01ec1e5358679",
+        "android_client_info": {
+          "package_name": "com.sneh.intern_link"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9RJEQwFIPGlZxCN0bP8sa2tbuH5sLTDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

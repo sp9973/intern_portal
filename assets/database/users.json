@@ -1,0 +1,77 @@
+[
+  {
+    "userId": "user_001",
+    "role": "job_seeker",
+    "name": "Rahul Sharma",
+    "email": "rahul.sharma@example.com",
+    "password": "password123",
+    "profile": {
+      "resumeLink": "assets/docs/user_001/resume.pdf",
+      "profilePicture": "assets/docs/user_001/profile.jpg",
+      "skills": ["Flutter", "Dart", "Firebase", "UI/UX"],
+      "experience": "1 year as Flutter Developer",
+      "education": "B.Tech in Computer Science - IIT Delhi",
+      "savedJobs": ["job_101", "job_103"],
+      "savedInternships": ["intern_201"]
+    },
+    "status": "active"
+  },
+  {
+    "userId": "user_002",
+    "role": "job_seeker",
+    "name": "Priya Patel",
+    "email": "priya.patel@example.com",
+    "password": "password123",
+    "profile": {
+      "resumeLink": "assets/docs/user_002/resume.pdf",
+      "profilePicture": "assets/docs/user_002/profile.jpg",
+      "skills": ["Python", "Machine Learning", "Data Analysis"],
+      "experience": "6 months as Data Science Intern",
+      "education": "M.Sc in Data Science - University of Mumbai",
+      "savedJobs": ["job_102"],
+      "savedInternships": ["intern_202", "intern_203"]
+    },
+    "status": "active"
+  },
+  {
+    "userId": "user_003",
+    "role": "employer",
+    "name": "TechSolutions India",
+    "email": "hr@techsolutions.in",
+    "password": "password123",
+    "profile": {
+      "companyWebsite": "https://www.techsolutions.in",
+      "companyDescription": "Leading IT services company based in Bangalore",
+      "companyLogo": "assets/docs/user_003/logo.png",
+      "postedJobs": ["job_101", "job_102"],
+      "postedInternships": ["intern_201", "intern_202"]
+    },
+    "status": "active"
+  },
+  {
+    "userId": "user_004",
+    "role": "employer",
+    "name": "DigitalCraft Studios",
+    "email": "careers@digitalcraft.com",
+    "password": "password123",
+    "profile": {
+      "companyWebsite": "https://www.digitalcraft.com",
+      "companyDescription": "Creative digital agency specializing in mobile apps",
+      "companyLogo": "assets/docs/user_004/logo.png",
+      "postedJobs": ["job_103", "job_104"],
+      "postedInternships": ["intern_203", "intern_204"]
+    },
+    "status": "active"
+  },
+  {
+    "userId": "user_005",
+    "role": "admin",
+    "name": "Admin User",
+    "email": "admin@internlink.com",
+    "password": "admin123",
+    "profile": {
+      "profilePicture": "assets/docs/user_005/profile.jpg"
+    },
+    "status": "active"
+  }
+]

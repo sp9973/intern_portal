@@ -1,0 +1,67 @@
+[
+  {
+    "internshipId": "intern_201",
+    "postedBy": "user_003",
+    "title": "Flutter Development Intern",
+    "description": "6-month internship for Flutter developers. You'll work on real projects and learn from our senior developers.",
+    "stipend": "₹15,000 per month",
+    "location": "Bangalore, Karnataka",
+    "eligibility": "B.Tech/B.E. Computer Science students in 3rd/4th year",
+    "lastDate": "2023-12-10",
+    "applicationsReceived": [],
+    "status": "approved",
+    "companyLogo": "assets/docs/user_003/logo.png"
+  },
+  {
+    "internshipId": "intern_202",
+    "postedBy": "user_003",
+    "title": "Data Science Intern",
+    "description": "Learn data analysis and machine learning while working on real-world datasets.",
+    "stipend": "₹12,000 per month",
+    "location": "Hyderabad, Telangana",
+    "eligibility": "M.Sc/B.Tech in Data Science or related field",
+    "lastDate": "2023-12-15",
+    "applicationsReceived": [],
+    "status": "approved",
+    "companyLogo": "assets/docs/user_003/logo.png"
+  },
+  {
+    "internshipId": "intern_203",
+    "postedBy": "user_004",
+    "title": "UI/UX Design Intern",
+    "description": "Internship opportunity for creative designers to work on mobile and web interfaces.",
+    "stipend": "₹10,000 per month",
+    "location": "Mumbai, Maharashtra",
+    "eligibility": "Design students with basic knowledge of Figma/Adobe XD",
+    "lastDate": "2023-12-20",
+    "applicationsReceived": [],
+    "status": "approved",
+    "companyLogo": "assets/docs/user_004/logo.png"
+  },
+  {
+    "internshipId": "intern_204",
+    "postedBy": "user_004",
+    "title": "Backend Development Intern",
+    "description": "Learn Node.js and MongoDB while building real backend services.",
+    "stipend": "₹12,000 per month",
+    "location": "Remote",
+    "eligibility": "Computer Science students with basic programming knowledge",
+    "lastDate": "2023-12-25",
+    "applicationsReceived": [],
+    "status": "approved",
+    "companyLogo": "assets/docs/user_004/logo.png"
+  },
+  {
+    "internshipId": "intern_205",
+    "postedBy": "user_003",
+    "title": "DevOps Intern",
+    "description": "Hands-on experience with AWS, Docker and Kubernetes in a production environment.",
+    "stipend": "₹15,000 per month",
+    "location": "Gurugram, Haryana",
+    "eligibility": "B.Tech/B.E. students with Linux knowledge",
+    "lastDate": "2024-01-05",
+    "applicationsReceived": [],
+    "status": "pending",
+    "companyLogo": "assets/docs/user_003/logo.png"
+  }
+]
